@@ -14,10 +14,10 @@ Hi, welcome to the room of my own, aka __nuova stanza__, inspired by the famous 
 
 
 Something about myself:
-- Math major graduate but born with a heart for literature and films.
+- Math major but born with a heart for literature and films.
 - Constantly struggling with writing because being *bilingual* means *you lose two languages*
   - have different personalities in different languages
-- I'm going through that stage in my life which I abhor anything I write the split second I finish, so no beta reading
+- Abhor anything I write the split second I finish, so no beta reading
 - Love to take criticisms❤
 - They say the kind of music you listen to at 12 will stay with you forever. It's true and in my case it's VOCALOID and rock.
 - My panacea to anxiety and stress is my Fender Strat🎸
@@ -32,4 +32,4 @@ Something about myself:
 
 
 
-Thanks for reading this. I am very unapologetic for wasting a good 3 minutes of your life since I obviously wasted more creating this site.
+Thanks for reading this. I am very unapologetic for wasting a good 3 minutes of your life since I obviously wasted more time creating this site.
