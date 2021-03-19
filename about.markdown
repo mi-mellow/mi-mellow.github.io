@@ -4,23 +4,32 @@ title: About
 permalink: /about/
 ---
 
-Hi, welcome to the room of my own, aka nuova stanza, inspired by the famous essay written by the one and only Miss Virginia Woolf.
-
-# About myself
-## Testing
-### How big is this 
+***
+# 欢迎来到我的个人垃圾桶。
+~~Even a trash can needs a designer, right?~~
 
 
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, welcome to the room of my own, aka __nuova stanza__, inspired by the famous essay written by the one and only Miss Virginia Woolf.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+Something about myself:
+- Math major graduate but born with a heart for literature and films.
+- Constantly struggling with writing because being *bilingual* means *you lose two languages*
+  - have different personalities in different languages
+- I'm going through that stage in my life which I abhor anything I write the split second I finish, so no beta reading
+- Love to take criticisms❤
+- They say the kind of music you listen to at 12 will stay with you forever. It's true and in my case it's VOCALOID and rock.
+- My panacea to anxiety and stress is my Fender Strat🎸
+
+
+
+好高骛远、狂妄不羁。
+
+人生目标是做个思想家。
+
+短期目标是多看多写、少自怨自艾。
+
+
+
+Thanks for reading this. I am very unapologetic for wasting a good 3 minutes of your life since I obviously wasted more creating this site.
