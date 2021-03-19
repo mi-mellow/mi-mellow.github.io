@@ -21,11 +21,14 @@
 title: Nuova Stanza
 email: improb@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Too young to fall asleep，too cynical to speak
+  Too young to fall asleep, too cynical to speak
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mi-mellow
-instagram_username: shirleylorina
+douban: 50938886
+douban_username: Lorina
+facebook_username: ksndf
+
 # Build settings
 theme: minima
 plugins:
