@@ -4,6 +4,14 @@ title: About
 permalink: /about/
 ---
 
+Hi, welcome to the room of my own, aka nuova stanza, inspired by the famous essay written by the one and only Miss Virginia Woolf.
+
+# About myself
+## Testing
+### How big is this 
+
+
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
