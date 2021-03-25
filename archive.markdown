@@ -6,10 +6,10 @@ permalink: /archive
 
 still under construction
 goal：
-[x]tag system or categories
+- [ ] tag system or categories
 
-[x]pages for multi chapters
+- [ ] pages for multi chapters
 
-[x]analytics for myself
+- [ ] analytics for myself
 
-[x]feedback box 
+- [ ] feedback box
