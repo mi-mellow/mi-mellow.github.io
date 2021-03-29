@@ -4,7 +4,6 @@ title:  "前に行け"
 date:   2018-08-04 15:11:29 +0800
 categories: reviews
 tag: movies
-enabled: all
 #output: html_document
 ---
 
