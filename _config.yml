@@ -30,6 +30,9 @@ github_username:  mi-mellow
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
+
+gems: ['jekyll/itafroma/archive']
 
 # Exclude from processing.
 # The following items will not be processed, by default.

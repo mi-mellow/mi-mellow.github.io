@@ -22,9 +22,9 @@ Something about myself:
 - They say the kind of music you listen to at 12 will stay with you forever. It's true and in my case it's VOCALOID and rock.
 - My panacea to anxiety and stress is my Fender Strat🎸
 
+天性狷介，自恃甚高。
 
-
-好高骛远、狂妄不羁。
+好高骛远，狂妄不羁。
 
 人生目标是做个思想家。
 
