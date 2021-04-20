@@ -6,20 +6,14 @@ permalink: /about/
 
 ***
 # 欢迎来到我的个人垃圾桶。
-~~Even a trash can needs a designer, right?~~
 
-
-Hi, welcome to the room of my own, aka __nuova stanza__, inspired by the famous essay written by the one and only Miss Virginia Woolf.
-
-
+Hi, welcome to the room of my own, aka __nuova stanza__, inspired by the one and only Miss Virginia Woolf.
 
 Something about myself:
-- Math major but born with a heart for literature and films.
 - Constantly struggling with writing because being *bilingual* means *you lose two languages*
-  - have different personalities in different languages
-- Abhor anything I write the split second I finish, so no beta reading
-- Love to take criticisms❤
-- They say the kind of music you listen to at 12 will stay with you forever. It's true and in my case it's VOCALOID and rock.
+- Abhor anything I write the split second I finish, so there's no beta reading
+- Live on self-criticism
+- They say the kind of music you listen to at 12 will stay with you forever. It's true. Mine are VOCALOID and Rock.
 - My panacea to anxiety and stress is my Fender Strat🎸
 
 天性狷介，自恃甚高。
