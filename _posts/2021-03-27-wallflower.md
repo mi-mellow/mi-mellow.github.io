@@ -2,7 +2,7 @@
 layout: post
 title:  "The Perks of Watching a Wallflower"
 date:   2021-03-27
-categories: reviews
+categories: review
 tag: movies
 ---
 # 《壁花少年》
