@@ -12,7 +12,6 @@ Hi, welcome to the room of my own, aka __nuova stanza__, inspired by the one and
 Something about myself:
 - Constantly struggling with writing because being *bilingual* means *you lose two languages*
 - Live on self-criticism
-  - Abhor anything I write the split second I finish
 - They say the kind of music you listen to at 12 will stay with you forever. It's true. Mine are VOCALOID and Rock.
 - My panacea to anxiety and stress is my Fender Strat🎸
 - My anachronic heart forever belongs to the 90s
