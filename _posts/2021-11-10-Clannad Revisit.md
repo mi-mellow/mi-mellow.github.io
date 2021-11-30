@@ -19,4 +19,4 @@ The father-son relationship of Tomoya and his father has something unique to the
 
 I also liked how Maeda Jun makes the connection of the town to life and family, connecting the dots to a whole picture. The power of happiness moments from people and the town itself, as a whole, brings a second chance to the main character, and what should be done is done. It is a happy ending that came at great cost and depth. It will make you rethink the concept of community, human connections, and time.
 
-Whenever I think of Clannad, I will always think of the prolonging after taste of bittersweet. (And Kyo in the gym equipment room)
+Whenever I think of Clannad, I will always think of the prolonging aftertaste of bittersweetness. (And Kyo in the gym equipment room)
