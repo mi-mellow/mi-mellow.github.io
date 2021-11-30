@@ -12,16 +12,15 @@ Hi, welcome to the room of my own, aka __nuova stanza__, inspired by the one and
 Something about myself:
 - Constantly struggling with writing because being *bilingual* means *you lose two languages*
 - Live on self-criticism
-- They say the kind of music you listen to at 12 will stay with you forever. It's true. Mine are VOCALOID and Rock.
-- My panacea to anxiety and stress is my Fender Strat🎸
-- My anachronic heart forever belongs to the 90s
+- Listens to Rock and Indie, not so much a pop music fan
+- My panacea to anxiety and stress is my Fender
 
 
 天性狷介，自恃颇高。
 
 人生目标是做个思想家和一个善良的人。
 
-短期目标是多看多写、少自怨自艾。
+Short term life goal is to become happier with myself.
 
 
 
